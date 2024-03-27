@@ -31,8 +31,6 @@ a { text-decoration: none; }
 }
 
 .title-level-three {
-    margin-top: 0;
-    margin-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -137,8 +135,6 @@ a { text-decoration: none; }
 
 
 .card {
-    margin-bottom: 10px;
-    display: flex;
     background: #fff;
 }
 
